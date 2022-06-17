@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+  background: linear-gradient(180deg, #f3a9c3, #fbd489)
+}
+.mybg{
+	background-image: url("https://64.media.tumblr.com/9be1c9e8d2cb8479afb999194419bc24/tumblr_ovdctifGQt1thvu4co5_1280.png");
+	
+}
+h1{
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	font-family: 'Mitr', sans-serif; 
+}
+h2{
+	font-family: 'Bai Jamjuree', sans-serif;
+	font-size: 16px;
+	margin-top: 20px;
+	text-align: left;
+}
+.margin{
+	margin-left: 100px;
+}
+.round-img{
+	border-top-left-radius: 20px;
+ 	border-top-right-radius: 60px;
+ 	border-bottom-left-radius: 80px;
+ 	border-bottom-right-radius: 40px;
+	text-align: center;
+}
+.center{
+	margin: auto auto;
+	text-align: center;
+}
+p{
+	font-family: 'Bai Jamjuree', sans-serif;
+	font-size: 16px;
+}
+.web{
+	margin-bottom: 50px;
+}

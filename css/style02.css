@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: linear-gradient(180deg, #f3a9c3, #fbd489)
+}
+.mybg{
+	background-image: url("https://64.media.tumblr.com/9be1c9e8d2cb8479afb999194419bc24/tumblr_ovdctifGQt1thvu4co5_1280.png");
+}
+h1{
+	font-family: 'Mitr', sans-serif;
+	
+}
+	
+p, li{
+	font-family: 'Bai Jamjuree', sans-serif;
+	font-size: 20px;
+}
+.margin-top{
+	margin-top: 30px;
+}
